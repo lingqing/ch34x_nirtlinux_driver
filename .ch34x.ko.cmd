@@ -1,0 +1,1 @@
+cmd_/home/andy/CH341SER_LINUX/ch34x.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/andy/CH341SER_LINUX/ch34x.ko /home/andy/CH341SER_LINUX/ch34x.o /home/andy/CH341SER_LINUX/ch34x.mod.o
